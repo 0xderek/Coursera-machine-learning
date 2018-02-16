@@ -1,0 +1,1 @@
+This is a repo for finished assignments of [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) on Coursera.
